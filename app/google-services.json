@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "582271179351",
+    "firebase_url": "https://admin-anime-quiz-default-rtdb.firebaseio.com",
+    "project_id": "admin-anime-quiz",
+    "storage_bucket": "admin-anime-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582271179351:android:31e30c688b147e4be3e112",
+        "android_client_info": {
+          "package_name": "com.tegogames.adminanimequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582271179351-catqafgm2eajod9c6p9jm4m705qf6j29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADHFWhtZt6j-MrkfXH4Kcd78uoOg3Gm5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582271179351-catqafgm2eajod9c6p9jm4m705qf6j29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
